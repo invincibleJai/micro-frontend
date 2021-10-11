@@ -24,6 +24,9 @@ cd host-vanilla && yarn start
 Once these are launched you can look at the [Growlers UI](http://localhost:8080/), [React Host UI](http://localhost:8081/) and
 [Vanilla Host UI](http://localhost:8082/).
 
+# Repo
+
+https://github.com/invincibleJai/micro-fes-simplified-done/blob/master/README.md
 # Demo video
 
 Based on https://www.youtube.com/watch?v=89hSa1pKPPg&list=PLWSiF9YHHK-DqsFHGYbeAMwbd9xcZbEWJ&index=2
